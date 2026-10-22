@@ -1,0 +1,6 @@
+# build output and local state
+*.exe
+*.pdb
+settings.json
+*.log
+yetix-preset*.json
